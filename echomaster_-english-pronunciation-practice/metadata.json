@@ -1,6 +1,0 @@
-{
-  "name": "EchoMaster: English Pronunciation Practice",
-  "description": "An AI-powered English pronunciation app that generates themed sentences using Gemini and provides real-time feedback on your speaking accuracy.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": []
-}
